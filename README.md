@@ -16,11 +16,10 @@ Welcome to the **humber-csharp** repository! This repository is focused on C# an
 This repository contains C# projects and examples primarily centered around the ASP.NET framework. You can find code examples, tutorials, and other resources related to C# development.
 ## Features
 - C# programming concepts and examples
-- [Features](#Features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- ASP.NET web development resources
+- Code snippets and tutorials
+- est practices for ASP.NET applications
+
 
 ## Installation
 
