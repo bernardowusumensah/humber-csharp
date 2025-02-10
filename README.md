@@ -5,6 +5,7 @@ Welcome to the **humber-csharp** repository! This repository is focused on C# an
 ## Table of Contents
 
 - [About](#about)
+- - [Features](#Features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -13,6 +14,7 @@ Welcome to the **humber-csharp** repository! This repository is focused on C# an
 ## About
 
 This repository contains C# projects and examples primarily centered around the ASP.NET framework. You can find code examples, tutorials, and other resources related to C# development.
+## Features
 
 ## Installation
 
