@@ -28,4 +28,12 @@ To get started with any project in this repository, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/humber-csharp.git
+
+2. Open the project in Visual Studio.
+
+3. Restore dependencies:
+   ```bash
+  dotnet restore
+  
+   
 # humber-csharp
