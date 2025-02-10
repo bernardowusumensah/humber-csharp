@@ -5,7 +5,7 @@ Welcome to the **humber-csharp** repository! This repository is focused on C# an
 ## Table of Contents
 
 - [About](#about)
-- - [Features](#Features)
+- [Features](#Features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
