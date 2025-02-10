@@ -44,10 +44,11 @@ To get started with any project in this repository, follow these steps:
 - Follow the documentation for guidance on C# and ASP.NET concepts.
 - Use the provided templates and best practices for your projects.
 
-  ## Contributing
+## Contributing
 - Fork the repository
 - Create a new branch
 - Submit a pull request with your improvements
 
-
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 # humber-csharp
