@@ -18,7 +18,7 @@ This repository contains C# projects and examples primarily centered around the 
 - C# programming concepts and examples
 - ASP.NET web development resources
 - Code snippets and tutorials
-- est practices for ASP.NET applications
+- best practices for ASP.NET applications
 
 
 ## Installation
