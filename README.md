@@ -38,6 +38,7 @@ To get started with any project in this repository, follow these steps:
 4. Run the application:
    ```bash
 dotnet run
+5. End
 ##  Usage
 - Explore the code examples and tutorials.
 - Follow the documentation for guidance on C# and ASP.NET concepts.
