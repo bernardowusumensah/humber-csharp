@@ -32,8 +32,8 @@ To get started with any project in this repository, follow these steps:
 2. Open the project in Visual Studio.
 
 3. Restore dependencies:
-   ```bash
-  dotnet restore
+   ```bash   dotnet restore
+
   
    
 # humber-csharp
