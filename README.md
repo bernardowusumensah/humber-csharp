@@ -36,9 +36,9 @@ To get started with any project in this repository, follow these steps:
    dotnet restore
 
 4. Run the application:
-```bash
+   ```bash
 dotnet run
-  
+
 ##  Usage
 - Explore the code examples and tutorials.
 - Follow the documentation for guidance on C# and ASP.NET concepts.
